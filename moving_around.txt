@@ -1,0 +1,21 @@
+    1  config --global user.name "DianaC"
+    2  config --global user.name
+    3  config --global user.name "Diana_C"
+    4  git config --global user.name "Diana_C"
+    5  git config --global user.email "dianachinea@hotmail.com"
+    6  git config --list
+    7  exit
+    8  history
+    9  /subl
+   10  q
+   11  history | sort
+   12  subl
+   13  history | sort | less
+   14  cd
+   15  history > moving_around.txt
+   16  cat moving_around.txt 
+   17  subl moving_around.txt
+   18  less moving_around.txt
+   19  ll
+   20  ls
+   21  history > moving_around.txt
